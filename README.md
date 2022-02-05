@@ -4,7 +4,7 @@
 
 Submitted by: **Star Wong**
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -24,17 +24,20 @@ The following **additional** features are implemented:
 
 - [ ] Live updates tip and total amount as the bill amount is being entered.
 - [ ] User can enter custom tip amount. (EXTRA: Tip percentage is calulated and shown below tip amount based on tip input).
+- [x] Dark mode. (CURRENTLY DOES NOT WORK WITH SAVING/LOADING DATA)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/0OJwxLF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/WZbLHOc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
 
 When entering a new bill amount, the tip and total amount only updates once user has selected a new tip percentage. This can be seen in the beginning of the video walkthrough. I have entered $20.00 in the bill amount prior to recording this.
+
+Still figuring out how to implement save/load data. Adjust default tip amount in Settings currently crashes the app.
 
 ## License
 
