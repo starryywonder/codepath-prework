@@ -37,7 +37,7 @@ Here's a walkthrough of implemented user stories:
 
 When entering a new bill amount, the tip and total amount only updates once user has selected a new tip percentage. This can be seen in the beginning of the video walkthrough. I have entered $20.00 in the bill amount prior to recording this.
 
-Still figuring out how to implement save/load data. Adjust default tip amount in Settings currently crashes the app.
+Still figuring out how to implement save/load data. Adjusting default tip amount in Settings currently crashes the app.
 
 ## License
 
