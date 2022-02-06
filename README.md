@@ -24,7 +24,8 @@ The following **additional** features are implemented:
 
 - [ ] Live updates tip and total amount as the bill amount is being entered.
 - [ ] User can enter custom tip amount. (EXTRA: Tip percentage is calulated and shown below tip amount based on tip input).
-- [x] Dark mode. (CURRENTLY DOES NOT WORK WITH SAVING/LOADING DATA)
+- [x] Dark mode.
+- [x] Saving/loading data
 
 ## Video Walkthrough
 
